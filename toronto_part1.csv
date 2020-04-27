@@ -1,0 +1,541 @@
+,Postcode,Borough,Neighbourhood
+0,"M9N
+","York
+",Weston
+1,"M8N
+","Not assigned
+",
+2,"M3X
+","Not assigned
+",
+3,"M2E
+","Not assigned
+",
+4,"M1W
+","Scarborough
+",Steeles West / L'Amoreaux West
+5,"M6T
+","Not assigned
+",
+6,"M8G
+","Not assigned
+",
+7,"M9G
+","Not assigned
+",
+8,"M4E
+","East Toronto
+",The Beaches
+9,"M5G
+","Downtown Toronto
+",Central Bay Street
+10,"M6K
+","West Toronto
+",Brockton / Parkdale Village / Exhibition Place
+11,"M3L
+","North York
+",Downsview
+12,"M7J
+","Not assigned
+",
+13,"M4R
+","Central Toronto
+",North Toronto West
+14,"M4S
+","Central Toronto
+",Davisville
+15,"M7A
+","Downtown Toronto
+",Queen's Park / Ontario Provincial Government
+16,"M8A
+","Not assigned
+",
+17,"M1J
+","Scarborough
+",Scarborough Village
+18,"M5M
+","North York
+",Bedford Park / Lawrence Manor East
+19,"M5L
+","Downtown Toronto
+",Commerce Court / Victoria Hotel
+20,"M7R
+","Mississauga
+",Canada Post Gateway Processing Centre
+21,"M4T
+","Central Toronto
+",Moore Park / Summerhill East
+22,"M8R
+","Not assigned
+",
+23,"M2Y
+","Not assigned
+",
+24,"M4A
+","North York
+",Victoria Village
+25,"M2A
+","Not assigned
+",
+26,"M6J
+","West Toronto
+",Little Portugal / Trinity
+27,"M9B
+","Etobicoke
+",West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale
+28,"M1C
+","Scarborough
+",Rouge Hill / Port Union / Highland Creek
+29,"M3W
+","Not assigned
+",
+30,"M2H
+","North York
+",Hillcrest Village
+31,"M7V
+","Not assigned
+",
+32,"M5T
+","Downtown Toronto
+",Kensington Market / Chinatown / Grange Park
+33,"M4M
+","East Toronto
+",Studio District
+34,"M2J
+","North York
+",Fairview / Henry Farm / Oriole
+35,"M1B
+","Scarborough
+",Malvern / Rouge
+36,"M9T
+","Not assigned
+",
+37,"M5E
+","Downtown Toronto
+",Berczy Park
+38,"M7W
+","Not assigned
+",
+39,"M5A
+","Downtown Toronto
+",Regent Park / Harbourfront
+40,"M5P
+","Central Toronto
+",Forest Hill North & West
+41,"M7H
+","Not assigned
+",
+42,"M2S
+","Not assigned
+",
+43,"M4G
+","East York
+",Leaside
+44,"M7C
+","Not assigned
+",
+45,"M8Z
+","Etobicoke
+",Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West
+46,"M2R
+","North York
+",Willowdale
+47,"M6G
+","Downtown Toronto
+",Christie
+48,"M8B
+","Not assigned
+",
+49,"M9H
+","Not assigned
+",
+50,"M7S
+","Not assigned
+",
+51,"M9V
+","Etobicoke
+",South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens
+52,"M7Z
+","Not assigned
+",
+53,"M5H
+","Downtown Toronto
+",Richmond / Adelaide / King
+54,"M3P
+","Not assigned
+",
+55,"M7T
+","Not assigned
+",
+56,"M1Y
+","Not assigned
+",
+57,"M9P
+","Etobicoke
+",Westmount
+58,"M8M
+","Not assigned
+",
+59,"M1G
+","Scarborough
+",Woburn
+60,"M8P
+","Not assigned
+",
+61,"M3T
+","Not assigned
+",
+62,"M3B
+","North York
+",Don Mills
+63,"M3G
+","Not assigned
+",
+64,"M2V
+","Not assigned
+",
+65,"M6R
+","West Toronto
+",Parkdale / Roncesvalles
+66,"M6M
+","York
+",Del Ray / Mount Dennis / Keelsdale and Silverthorn
+67,"M8L
+","Not assigned
+",
+68,"M6Y
+","Not assigned
+",
+69,"M1K
+","Scarborough
+",Kennedy Park / Ionview / East Birchmount Park
+70,"M3A
+","North York
+",Parkwoods
+71,"M1S
+","Scarborough
+",Agincourt
+72,"M9R
+","Etobicoke
+",Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens
+73,"M1X
+","Scarborough
+",Upper Rouge
+74,"M6Z
+","Not assigned
+",
+75,"M5K
+","Downtown Toronto
+",Toronto Dominion Centre / Design Exchange
+76,"M2N
+","North York
+",Willowdale
+77,"M4J
+","East York
+",East Toronto
+78,"M9S
+","Not assigned
+",
+79,"M3C
+","North York
+",Don Mills
+80,"M9C
+","Etobicoke
+",Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Wood
+81,"M6A
+","North York
+",Lawrence Manor / Lawrence Heights
+82,"M1A
+","Not assigned
+",
+83,"M6S
+","West Toronto
+",Runnymede / Swansea
+84,"M5J
+","Downtown Toronto
+",Harbourfront East / Union Station / Toronto Islands
+85,"M1V
+","Scarborough
+",Milliken / Agincourt North / Steeles East / L'Amoreaux East
+86,"M2M
+","North York
+",Willowdale / Newtonbrook
+87,"M2W
+","Not assigned
+",
+88,"M7X
+","Not assigned
+",
+89,"M6X
+","Not assigned
+",
+90,"M9E
+","Not assigned
+",
+91,"M7M
+","Not assigned
+",
+92,"M4L
+","East Toronto
+",India Bazaar / The Beaches West
+93,"M1T
+","Scarborough
+",Clarks Corners / Tam O'Shanter / Sullivan
+94,"M3N
+","North York
+",Downsview
+95,"M4B
+","East York
+",Parkview Hill / Woodbine Gardens
+96,"M3J
+","North York
+",Northwood Park / York University
+97,"M3V
+","Not assigned
+",
+98,"M6L
+","North York
+",North Park / Maple Leaf Park / Upwood Park
+99,"M2P
+","North York
+",York Mills West
+100,"M4H
+","East York
+",Thorncliffe Park
+101,"M2L
+","North York
+",York Mills / Silver Hills
+102,"M1P
+","Scarborough
+",Dorset Park / Wexford Heights / Scarborough Town Centre
+103,"M5R
+","Central Toronto
+",The Annex / North Midtown / Yorkville
+104,"M2T
+","Not assigned
+",
+105,"M1L
+","Scarborough
+",Golden Mile / Clairlea / Oakridge
+106,"M1R
+","Scarborough
+",Wexford / Maryvale
+107,"M3E
+","Not assigned
+",
+108,"M8E
+","Not assigned
+",
+109,"M3M
+","North York
+",Downsview
+110,"M3R
+","Not assigned
+",
+111,"M9L
+","North York
+",Humber Summit
+112,"M5C
+","Downtown Toronto
+",St. James Town
+113,"M4V
+","Central Toronto
+",Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park
+114,"M8H
+","Not assigned
+",
+115,"M7K
+","Not assigned
+",
+116,"M5B
+","Downtown Toronto
+","Garden District, Ryerson"
+117,"M2B
+","Not assigned
+",
+118,"M6H
+","West Toronto
+",Dufferin / Dovercourt Village
+119,"M8V
+","Etobicoke
+",New Toronto / Mimico South / Humber Bay Shores
+120,"M5W
+","Downtown Toronto
+",Stn A PO Boxes
+121,"M5N
+","Central Toronto
+",Roselawn
+122,"M6V
+","Not assigned
+",
+123,"M4N
+","Central Toronto
+",Lawrence Park
+124,"M5Y
+","Not assigned
+",
+125,"M5S
+","Downtown Toronto
+",University of Toronto / Harbord
+126,"M3K
+","North York
+",Downsview
+127,"M4W
+","Downtown Toronto
+",Rosedale
+128,"M4K
+","East Toronto
+",The Danforth West / Riverdale
+129,"M2Z
+","Not assigned
+",
+130,"M4Y
+","Downtown Toronto
+",Church and Wellesley
+131,"M1E
+","Scarborough
+",Guildwood / Morningside / West Hill
+132,"M9W
+","Etobicoke
+",Northwest
+133,"M6W
+","Not assigned
+",
+134,"M7N
+","Not assigned
+",
+135,"M8Y
+","Etobicoke
+",Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East
+136,"M7G
+","Not assigned
+",
+137,"M9M
+","North York
+",Humberlea / Emery
+138,"M8X
+","Etobicoke
+",The Kingsway / Montgomery Road  / Old Mill North
+139,"M7B
+","Not assigned
+",
+140,"M2G
+","Not assigned
+",
+141,"M8W
+","Etobicoke
+",Alderwood / Long Branch
+142,"M6C
+","York
+",Humewood-Cedarvale
+143,"M1H
+","Scarborough
+",Cedarbrae
+144,"M2K
+","North York
+",Bayview Village
+145,"M8J
+","Not assigned
+",
+146,"M4P
+","Central Toronto
+",Davisville North
+147,"M9Y
+","Not assigned
+",
+148,"M4C
+","East York
+",Woodbine Heights
+149,"M4X
+","Downtown Toronto
+",St. James Town / Cabbagetown
+150,"M3S
+","Not assigned
+",
+151,"M3Z
+","Not assigned
+",
+152,"M5X
+","Downtown Toronto
+",First Canadian Place / Underground city
+153,"M6N
+","York
+",Runnymede / The Junction North
+154,"M8K
+","Not assigned
+",
+155,"M6B
+","North York
+",Glencairn
+156,"M7L
+","Not assigned
+",
+157,"M9A
+","Etobicoke
+",Islington Avenue
+158,"M9X
+","Not assigned
+",
+159,"M5Z
+","Not assigned
+",
+160,"M2X
+","Not assigned
+",
+161,"M9Z
+","Not assigned
+",
+162,"M3Y
+","Not assigned
+",
+163,"M1Z
+","Not assigned
+",
+164,"M4Z
+","Not assigned
+",
+165,"M8C
+","Not assigned
+",
+166,"M1N
+","Scarborough
+",Birch Cliff / Cliffside West
+167,"M2C
+","Not assigned
+",
+168,"M6E
+","York
+",Caledonia-Fairbanks
+169,"M6P
+","West Toronto
+",High Park / The Junction South
+170,"M8S
+","Not assigned
+",
+171,"M7Y
+","East Toronto
+",Business reply mail Processing CentrE
+172,"M8T
+","Not assigned
+",
+173,"M5V
+","Downtown Toronto
+",CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / Island airport
+174,"M9J
+","Not assigned
+",
+175,"M7E
+","Not assigned
+",
+176,"M7P
+","Not assigned
+",
+177,"M3H
+","North York
+",Bathurst Manor / Wilson Heights / Downsview North
+178,"M9K
+","Not assigned
+",
+179,"M1M
+","Scarborough
+",Cliffside / Cliffcrest / Scarborough Village West
