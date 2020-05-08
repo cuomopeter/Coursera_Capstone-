@@ -54,8 +54,9 @@ I wanted to dig deeper to see where the trail venues were located, so using the 
 </br>
 
 ![](Capstone/Images/Picture6.png)
-
-
+</br>
+It appears most of the venues are <b>one</b> trail system - westside Atlanta Beltline
+</br>
 ![](Capstone/Images/Picture7.png)
 
 
