@@ -61,6 +61,11 @@ It appears most of the venues are <b>one</b> trail system - westside Atlanta Bel
 
 ![](Capstone/Images/Picture7.png)
 
+</br>
+</br>
+
+So, it looks as if this trail system is  under developed in terms of venue diversity but I wanted to do a but more exploration on the matter. I retrieved all of the data from more developed trail system venues. Specifically, I looked at Dallas, Chicago, and New York trail systems. Within a 1 miles radius of these trail systems, here are the most prevalent small businesses. 
+</br>
 
 ![](Capstone/Images/Picture8.png)
 
