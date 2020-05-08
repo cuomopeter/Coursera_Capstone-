@@ -23,7 +23,7 @@ All data for Atlanta and specifically Fulton county zipcodes
 
 <br />
 
-![](Capstone/Images/Picture10.png)
+![](Capstone/Images/Picture10.PNG)
 
 <br />
 
