@@ -94,7 +94,7 @@ The results of our analysis show that the trail system found in west Atlanta is 
 
 ### Further Discussion 
 
-It was interesting to note that all of fastest gorwing value homes are all in southwest Atlanta. Being from Atlanta, one would not think this to be the case. However, it is clear that the Atlanta beltline, which started on the eastside of town, is now making its way to the westside. It has made a monumental impact on the eastside economy and further analysis on the store fronts in eastside zip codes would be interseting to show what is available. In zip code 30310, this had the most prominant value increase. This is also the zipcode where the westside beltline is found.
+It was interesting to note that all of fastest growing value homes are all in southwest Atlanta. Being from Atlanta, one would not think this to be the case. However, it is clear that the Atlanta beltline, which started on the eastside of town, is now making its way to the westside. It has made a monumental impact on the eastside economy and further analysis on the store fronts in eastside zip codes would be interseting to show what is available. In zip code 30310, this had the most prominant value increase. This is also the zipcode where the westside beltline is found.
 
 # Conclusion 
 
