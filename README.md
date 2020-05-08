@@ -15,10 +15,14 @@ For this assignment I will be using two data sources. One will be Foursquare ven
 All data for Atlanta and specifically Fulton county zipcodes
 
 </br>
+
 ![](Capstone/Images/Picture1.png)
+
+</br>
 
 ![](Capstone/Images/Picture2.png)
 
+</br>
 
 ![](Capstone/Images/Picture3.png)
 
