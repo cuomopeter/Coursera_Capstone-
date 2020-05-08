@@ -33,7 +33,7 @@ Filtered to show the top ten pct_change zipcodes and joined to $ amount zipcodes
 
 </br>
 </br>
-Using **Folium and a geolocater** package I mapped these zipcodes - intersting to note they are all in southwest Atlanta
+Using <b>Folium and a geolocater</b> package I mapped these zipcodes - intersting to note they are all in southwest Atlanta
 
 </br>
 </br>
@@ -42,7 +42,7 @@ Using **Folium and a geolocater** package I mapped these zipcodes - intersting t
 
 </br>
 </br>
-Next using **FourSquare API** I sorted the top venue types in atlanta for exploration
+Next using <b>FourSquare API</b> I sorted the top venue types in atlanta for exploration
 </br>
 </br>
 
@@ -54,9 +54,11 @@ I wanted to dig deeper to see where the trail venues were located, so using the 
 </br>
 
 ![](Capstone/Images/Picture6.png)
+
 </br>
 It appears most of the venues are <b>one</b> trail system - westside Atlanta Beltline
 </br>
+
 ![](Capstone/Images/Picture7.png)
 
 
