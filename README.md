@@ -35,8 +35,16 @@ Filtered to show the top ten pct_change zipcodes and joined to $ amount zipcodes
 </br>
 Using Folium and a geolocater package I mapped these zipcodes - intersting to note they are all in southwest Atlanta
 
+</br>
+</br>
+Next using FourSquare API I sorted the top venue types in atlanta for exploration
+</br>
+</br>
+
 ![](Capstone/Images/Picture4.png)
 
+</br>
+</br>
 
 ![](Capstone/Images/Picture5.png)
 
