@@ -34,7 +34,7 @@ Pct_change function used to see month over month growth - still confusing
 </br>
 </br>
 Filtered to show the top ten pct_change zipcodes and joined to $ amount zipcodes - here we can see a clear steep increase
-
+![](Capstone/Images/Picture11.png)
 ![](Capstone/Images/Picture3.png)
 
 </br>
@@ -43,7 +43,7 @@ Using <b>Folium and a geolocater</b> package I mapped these zipcodes - interstin
 
 </br>
 </br>
-
+![](Capstone/Images/Picture12.png)
 ![](Capstone/Images/Picture4.png)
 
 </br>
@@ -51,7 +51,7 @@ Using <b>Folium and a geolocater</b> package I mapped these zipcodes - interstin
 Next using <b>FourSquare API</b> I sorted the top venue types in atlanta for exploration
 </br>
 </br>
-
+![](Capstone/Images/Picture13.png)
 ![](Capstone/Images/Picture5.png)
 </br>
 </br>
@@ -59,6 +59,7 @@ I wanted to dig deeper to see where the trail venues were located, so using the 
 </br>
 </br>
 
+![](Capstone/Images/Picture14.png)
 ![](Capstone/Images/Picture6.png)
 
 </br>
@@ -72,9 +73,28 @@ It appears most of the venues are <b>one</b> trail system - westside Atlanta Bel
 
 So, it looks as if this trail system is  under developed in terms of venue diversity but I wanted to do a but more exploration on the matter. I retrieved all of the data from more developed trail system venues. Specifically, I looked at Dallas, Chicago, and New York trail systems. Within a 1 miles radius of these trail systems, here are the most prevalent small businesses. 
 </br>
-
+![](Capstone/Images/Picture15.png)
+![](Capstone/Images/Picture16.png)
+![](Capstone/Images/Picture17.png)
 ![](Capstone/Images/Picture8.png)
 </br>
 Extracting 'park' or 'trail' from the mix and returning the top four small businesses in more developed areas:
 
 ![](Capstone/Images/Picture9.png)
+
+
+**Results**
+
+The results of our analysis show that the trail system found in west Atlanta is a key interest point. It is the most prominent feature in foursquare API. What is more, we can see that other large cities have similar trail systems. Because of the recency of the Atlanta housing market boom, the venues of other large metro area trail systems are very different. The most popular types of venues within 2 miles of the trail systems in other major cities are: Ice Cream Shops, Breweries, Coffee Shops, and Bakeries. 
+
+<br />
+<br />
+
+### Further Discussion 
+
+It was interesting to note that all of fastest gorwing value homes are all in southwest Atlanta. Being from Atlanta, one would not think this to be the case. However, it is clear that the Atlanta beltline, which started on the eastside of town, is now making its way to the westside. It has made a monumental impact on the eastside economy and further analysis on the store fronts in eastside zip codes would be interseting to show what is available. In zip code 30310, this had the most prominant value increase. This is also the zipcode where the westside beltline is found.
+
+# Conclusion 
+
+Looking at the venue area data from the top most gentrifying zip codes in Atlanta, it is clear that there is an opportunity in the vast Westside Atlanta Beltline area for small business. Right now is an opportunity for a savvy investor to purchase property close to or on the Westside Atlanta Beltline, open a brewery, coffee shop, ice cream shop, or bakery because people love to eat before, during, or after walks, as the data shows!
+
