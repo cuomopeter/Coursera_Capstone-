@@ -14,11 +14,16 @@ For this assignment I will be using two data sources. One will be Foursquare ven
 </br>
 </br>
 
-**Initial Zillow Data** 
+**Methodology and Analysis** 
+I will first be looking at Zillow data to gather the zip codes with the highest increase, pertage, in home value. Then I will separate out those zip codes, geolocate to find their coordinates, and explore venues in the area. After exploring venues, I will analyze for possible business ideas and saturated markets. If further analysis is needed, I will perform that analysis using these two data sources.
+
+
+</br>
+</br>
 All data for Atlanta and specifically Fulton county zipcodes
 
 </br>
-
+![](Capstone/Images/Picture10.png)
 ![](Capstone/Images/Picture1.png)
 
 </br>
