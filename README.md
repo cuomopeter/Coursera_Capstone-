@@ -10,20 +10,18 @@ The capitalist is hoping to start a business while business zoned property is st
 
 For this assignment I will be using two data sources. One will be Foursquare venue data pulled from Folium geolocation points, after identifying those zip codes which have been most affected by the boom. The second data set will be pulled from Zillow housing research for average home prices. This data will be filtered to include all of Atlanta. It will need to be historical data, starting after the 2009 housing market crash. Ideally, we would have month by month value for each zip code. 
 
-</br>
-</br>
-</br>
+<br />
+
 
 **Methodology and Analysis** 
 
 I will first be looking at Zillow data to gather the zip codes with the highest increase, pertage, in home value. Then I will separate out those zip codes, geolocate to find their coordinates, and explore venues in the area. After exploring venues, I will analyze for possible business ideas and saturated markets. If further analysis is needed, I will perform that analysis using these two data sources.
 
+<br />
 
-</br>
-</br>
 All data for Atlanta and specifically Fulton county zipcodes
 
-</br>
+<br />
 ![](Capstone/Images/Picture10.png)
 ![](Capstone/Images/Picture1.png)
 
