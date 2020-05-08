@@ -68,6 +68,7 @@ So, it looks as if this trail system is  under developed in terms of venue diver
 </br>
 
 ![](Capstone/Images/Picture8.png)
-
+</br>
+Extracting 'park' or 'trail' from the mix and returning the top four small businesses in more developed areas:
 
 ![](Capstone/Images/Picture9.png)
