@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9a8f854981034cc0b0b03c3d03b60726 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_9a8f854981034cc0b0b03c3d03b60726" ></div>
+        
+</body>
+<script>    
+    
+            var map_9a8f854981034cc0b0b03c3d03b60726 = L.map(
+                "map_9a8f854981034cc0b0b03c3d03b60726",
+                {
+                    center: [33.74300522617883, -84.35547437162377],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2d417c462f7e44cc9a73871bcee89592 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+            var circle_marker_ed847131664647799151fc0e0131b9e9 = L.circleMarker(
+                [33.75079043619542, -84.4263625290385],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_633d377928ba484fb5f397d0b18a069a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_08f4169008cf4df29848df66ddcaf6a1 = $(`<div id="html_08f4169008cf4df29848df66ddcaf6a1" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor over MLK</div>`)[0];
+            popup_633d377928ba484fb5f397d0b18a069a.setContent(html_08f4169008cf4df29848df66ddcaf6a1);
+        
+
+        circle_marker_ed847131664647799151fc0e0131b9e9.bindPopup(popup_633d377928ba484fb5f397d0b18a069a)
+        ;
+
+        
+    
+    
+            var circle_marker_04bbfb01c3474911be7e735db510f628 = L.circleMarker(
+                [33.75055754934729, -84.42751128498378],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_cb2f658b6d41494795ce16dc4ac6647e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fd434f106e3a412fa113150642e8ce2e = $(`<div id="html_fd434f106e3a412fa113150642e8ce2e" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Langhorn to Westview</div>`)[0];
+            popup_cb2f658b6d41494795ce16dc4ac6647e.setContent(html_fd434f106e3a412fa113150642e8ce2e);
+        
+
+        circle_marker_04bbfb01c3474911be7e735db510f628.bindPopup(popup_cb2f658b6d41494795ce16dc4ac6647e)
+        ;
+
+        
+    
+    
+            var circle_marker_7ed482528d81492daec8bfdf270a4f6d = L.circleMarker(
+                [33.742318, -84.433945],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_420e4c1719d046eba14aa2980c2ae123 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d564e0130f9a4f689c6b67709fcd14d6 = $(`<div id="html_d564e0130f9a4f689c6b67709fcd14d6" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor under Lucile Ave</div>`)[0];
+            popup_420e4c1719d046eba14aa2980c2ae123.setContent(html_d564e0130f9a4f689c6b67709fcd14d6);
+        
+
+        circle_marker_7ed482528d81492daec8bfdf270a4f6d.bindPopup(popup_420e4c1719d046eba14aa2980c2ae123)
+        ;
+
+        
+    
+    
+            var circle_marker_96c879fc7b9c41259f1030d89163f9bd = L.circleMarker(
+                [33.739007, -84.433123],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_db1c3f6cbc8244619421cfb51aff45d4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c8954dfb403f4476a0c211c899783a81 = $(`<div id="html_c8954dfb403f4476a0c211c899783a81" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor under Ralph David Abernathy Blvd</div>`)[0];
+            popup_db1c3f6cbc8244619421cfb51aff45d4.setContent(html_c8954dfb403f4476a0c211c899783a81);
+        
+
+        circle_marker_96c879fc7b9c41259f1030d89163f9bd.bindPopup(popup_db1c3f6cbc8244619421cfb51aff45d4)
+        ;
+
+        
+    
+    
+            var circle_marker_5d317698214641f88e2e99a379358177 = L.circleMarker(
+                [33.756440999999995, -84.424909],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_1353331e601641f68f2ce3d1d530d206 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_34f99f090405434eb96b0b367298e512 = $(`<div id="html_34f99f090405434eb96b0b367298e512" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor at Lena St</div>`)[0];
+            popup_1353331e601641f68f2ce3d1d530d206.setContent(html_34f99f090405434eb96b0b367298e512);
+        
+
+        circle_marker_5d317698214641f88e2e99a379358177.bindPopup(popup_1353331e601641f68f2ce3d1d530d206)
+        ;
+
+        
+    
+    
+            var circle_marker_7c5dd8a717c04f22a861772ed86de84d = L.circleMarker(
+                [33.751340932672306, -84.43652455047769],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_75b6db99eeb0448c8341126e1feb14e3 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d2810903b6b34279852a1442fe0a13f0 = $(`<div id="html_d2810903b6b34279852a1442fe0a13f0" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor under I-20</div>`)[0];
+            popup_75b6db99eeb0448c8341126e1feb14e3.setContent(html_d2810903b6b34279852a1442fe0a13f0);
+        
+
+        circle_marker_7c5dd8a717c04f22a861772ed86de84d.bindPopup(popup_75b6db99eeb0448c8341126e1feb14e3)
+        ;
+
+        
+    
+    
+            var circle_marker_4f087505e04a415dac583b468cbf9328 = L.circleMarker(
+                [33.732403288877755, -84.42353669887501],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_b8be528756fb40c3b056ab0e2892dc99 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1adbb3e020eb4746abe4929380ef7690 = $(`<div id="html_1adbb3e020eb4746abe4929380ef7690" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor under Lawton</div>`)[0];
+            popup_b8be528756fb40c3b056ab0e2892dc99.setContent(html_1adbb3e020eb4746abe4929380ef7690);
+        
+
+        circle_marker_4f087505e04a415dac583b468cbf9328.bindPopup(popup_b8be528756fb40c3b056ab0e2892dc99)
+        ;
+
+        
+    
+    
+            var circle_marker_d374aa71af434f80829eb9ceea50f19e = L.circleMarker(
+                [33.751340932672306, -84.43652455047769],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_97c8e6fd7cbf4be9aa77c39daeb0efb1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8d39c6efca9741c5853bd0dbef756473 = $(`<div id="html_8d39c6efca9741c5853bd0dbef756473" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor under I-20</div>`)[0];
+            popup_97c8e6fd7cbf4be9aa77c39daeb0efb1.setContent(html_8d39c6efca9741c5853bd0dbef756473);
+        
+
+        circle_marker_d374aa71af434f80829eb9ceea50f19e.bindPopup(popup_97c8e6fd7cbf4be9aa77c39daeb0efb1)
+        ;
+
+        
+    
+    
+            var circle_marker_1674b137e73a44d3b3a48a81eac372bb = L.circleMarker(
+                [33.742318, -84.433945],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_c37ccc25a5074fe0be876a9ac0233b83 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0c8052d207974dd0a4ab1bd6f04dbe6a = $(`<div id="html_0c8052d207974dd0a4ab1bd6f04dbe6a" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor under Lucile Ave</div>`)[0];
+            popup_c37ccc25a5074fe0be876a9ac0233b83.setContent(html_0c8052d207974dd0a4ab1bd6f04dbe6a);
+        
+
+        circle_marker_1674b137e73a44d3b3a48a81eac372bb.bindPopup(popup_c37ccc25a5074fe0be876a9ac0233b83)
+        ;
+
+        
+    
+    
+            var circle_marker_525e960db7174a4b924011cd174d6688 = L.circleMarker(
+                [33.75079043619542, -84.4263625290385],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_420556492eca47bdbd94d9c116953903 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b6766170bcf94922b9234d3c6c6e64e9 = $(`<div id="html_b6766170bcf94922b9234d3c6c6e64e9" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor over MLK</div>`)[0];
+            popup_420556492eca47bdbd94d9c116953903.setContent(html_b6766170bcf94922b9234d3c6c6e64e9);
+        
+
+        circle_marker_525e960db7174a4b924011cd174d6688.bindPopup(popup_420556492eca47bdbd94d9c116953903)
+        ;
+
+        
+    
+    
+            var circle_marker_5ca9b42e061d47059367af933f6d93e3 = L.circleMarker(
+                [33.75055754934729, -84.42751128498378],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_4147be58c6334de19cfaf9546b566f61 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b4c5a9d074e344d9ba8ea0f11c7024f2 = $(`<div id="html_b4c5a9d074e344d9ba8ea0f11c7024f2" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Langhorn to Westview</div>`)[0];
+            popup_4147be58c6334de19cfaf9546b566f61.setContent(html_b4c5a9d074e344d9ba8ea0f11c7024f2);
+        
+
+        circle_marker_5ca9b42e061d47059367af933f6d93e3.bindPopup(popup_4147be58c6334de19cfaf9546b566f61)
+        ;
+
+        
+    
+    
+            var circle_marker_2c6113cd2d4540109e96f198356d5394 = L.circleMarker(
+                [33.739007, -84.433123],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_b21f8729e271487490a20c6b2ba514cf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e4b89c98883649b99803fc8045e07496 = $(`<div id="html_e4b89c98883649b99803fc8045e07496" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor under Ralph David Abernathy Blvd</div>`)[0];
+            popup_b21f8729e271487490a20c6b2ba514cf.setContent(html_e4b89c98883649b99803fc8045e07496);
+        
+
+        circle_marker_2c6113cd2d4540109e96f198356d5394.bindPopup(popup_b21f8729e271487490a20c6b2ba514cf)
+        ;
+
+        
+    
+    
+            var circle_marker_4562218c367e41ccbbc13d98e0c94af2 = L.circleMarker(
+                [33.680928520046386, -84.36991763505141],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_ba4c576ea07645608804dd4ce9d4a72d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c62527b173434963a8da72cb3991ebd2 = $(`<div id="html_c62527b173434963a8da72cb3991ebd2" style="width: 100.0%; height: 100.0%;">Southtowne Trail System</div>`)[0];
+            popup_ba4c576ea07645608804dd4ce9d4a72d.setContent(html_c62527b173434963a8da72cb3991ebd2);
+        
+
+        circle_marker_4562218c367e41ccbbc13d98e0c94af2.bindPopup(popup_ba4c576ea07645608804dd4ce9d4a72d)
+        ;
+
+        
+    
+    
+            var circle_marker_1b33b63307774120ac8efa2bcbc0b666 = L.circleMarker(
+                [33.74300522617883, -84.35547437162377],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_9a8f854981034cc0b0b03c3d03b60726);
+        
+    
+        var popup_b909b306941c4bb7b543cd042cc2a6cf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_55a306bed7fd4e92b1ddc1cf83796551 = $(`<div id="html_55a306bed7fd4e92b1ddc1cf83796551" style="width: 100.0%; height: 100.0%;">Atlanta BeltLine Corridor at Memorial Drive</div>`)[0];
+            popup_b909b306941c4bb7b543cd042cc2a6cf.setContent(html_55a306bed7fd4e92b1ddc1cf83796551);
+        
+
+        circle_marker_1b33b63307774120ac8efa2bcbc0b666.bindPopup(popup_b909b306941c4bb7b543cd042cc2a6cf)
+        ;
+
+        
+    
+</script>
